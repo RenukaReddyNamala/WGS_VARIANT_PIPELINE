@@ -1,0 +1,5 @@
+fastqc
+bwa
+samtools
+gatk
+plink
